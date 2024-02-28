@@ -1,7 +1,6 @@
 /**
  * 	Ethan Barber
  * 	01/29/24
- * 	Assignment 1
  */
 
 import java.util.Scanner;
